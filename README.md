@@ -1,7 +1,7 @@
 # Master_data_science
 Repositorio de las asignaturas del máster en ciencia de datos de la Universidad Autónoma de Madrid 
 
-Nombres de las asignaturas:
+Nombres de las asignaturas: \
 CN -> Computación numérica \
 GD -> Gestión de datos \
 MAAA -> Métodos avanzados en aprendizaje automático \
@@ -15,7 +15,7 @@ PLN -> Procesamiento de lenguaje natural \
 
 Repository of the subjects of the master's degree in data science of the Universidad Autónoma de Madrid. 
 
-Subject names:
+Subject names: \
 CN -> Numerical Computing \
 GD -> Data Management \
 MAAA -> Advanced Methods in Machine Learning \
