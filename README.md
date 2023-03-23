@@ -9,7 +9,7 @@ MAE -> Métodos avanzados en estadística \
 PDGE -> Procesamiento de datos a gran escala \
 PE -> Procesos estocásticos \
 PIT -> Procesamiento de la información temporal \
-PLN -> Procesamiento de lenguaje natural \
+PLN -> Procesamiento de lenguaje natural 
 
 ---
 
@@ -23,4 +23,4 @@ MAE -> Advanced Methods in Statistics \
 PDGE -> Large-scale data processing \
 PE -> Stochastic Processes \
 PIT -> Processing of temporal information \
-PLN -> Natural Language Processing \
+PLN -> Natural Language Processing 
