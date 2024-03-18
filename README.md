@@ -9,7 +9,12 @@ MAE -> Métodos avanzados en estadística \
 PDGE -> Procesamiento de datos a gran escala \
 PE -> Procesos estocásticos \
 PIT -> Procesamiento de la información temporal \
-PLN -> Procesamiento de lenguaje natural 
+PLN -> Procesamiento de lenguaje natural \
+AR -> Aprendizaje por refuerzo \
+INE -> Información no estructurada \
+ABM -> Métodos bayesianos avanzados \
+APPIV -> Aprendizaje profundo para el procesamiento de imagen y vídeo \
+OPT -> Optimización
 
 ---
 
@@ -23,4 +28,10 @@ MAE -> Advanced Methods in Statistics \
 PDGE -> Large-scale data processing \
 PE -> Stochastic Processes \
 PIT -> Processing of temporal information \
-PLN -> Natural Language Processing 
+PLN -> Natural Language Processing \
+AR -> Reinforceement learning \
+INE -> Unstructured data \
+ABM -> Advanced bayesian methods \
+APPIV -> Deep learning for image and video processing \
+OPT -> Optimization
+
